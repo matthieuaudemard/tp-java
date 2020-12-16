@@ -47,7 +47,7 @@ public class Arme extends ObjetUtilisable {
 
     @Override
     public void utiliser(Unite cible) {
-        System.out.print(nom + " utilisé sur " + cible.getNom() +
+        System.out.println(nom + " utilisé sur " + cible.getNom() +
                 (sensibles != null && !sensibles.isEmpty() && sensibles.contains(cible.getType()) ? " sensible !!" : " pas sensible !!"));
     }
 

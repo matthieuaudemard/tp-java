@@ -1,10 +1,15 @@
 package org.cours.java.model.unite;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 public class Unite {
     protected String nom;
     protected boolean ennemi;
     protected TypeUnite type;
     protected int vie;
+
+    private static final Logger logger = LoggerFactory.getLogger(Unite.class);
 
     public Unite(String nom, boolean ennemi, TypeUnite type, int vie) {
         this.nom = nom;
