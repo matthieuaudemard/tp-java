@@ -1,6 +1,6 @@
-package org.cours.java.objet;
+package org.cours.java.model.objet;
 
-import org.cours.java.unite.Unite;
+import org.cours.java.model.unite.Unite;
 
 public class PotionSoin extends ObjetUtilisable{
 

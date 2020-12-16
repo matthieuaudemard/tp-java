@@ -1,6 +1,6 @@
-package org.cours.java.unite;
+package org.cours.java.model.unite;
 
-import org.cours.java.objet.Arme;
+import org.cours.java.model.objet.Arme;
 
 public class UniteArmee extends Unite{
     private Arme arme;

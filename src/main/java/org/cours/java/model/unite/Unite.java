@@ -1,4 +1,4 @@
-package org.cours.java.unite;
+package org.cours.java.model.unite;
 
 public class Unite {
     protected String nom;

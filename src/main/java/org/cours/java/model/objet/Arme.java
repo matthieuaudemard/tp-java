@@ -1,7 +1,7 @@
-package org.cours.java.objet;
+package org.cours.java.model.objet;
 
-import org.cours.java.unite.TypeUnite;
-import org.cours.java.unite.Unite;
+import org.cours.java.model.unite.TypeUnite;
+import org.cours.java.model.unite.Unite;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package org.cours.java.objet;
+package org.cours.java.model.objet;
 
 public abstract class Objet {
     protected String nom;

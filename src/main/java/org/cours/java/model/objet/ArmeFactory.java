@@ -1,6 +1,6 @@
-package org.cours.java.objet;
+package org.cours.java.model.objet;
 
-import org.cours.java.unite.TypeUnite;
+import org.cours.java.model.unite.TypeUnite;
 
 import java.util.Arrays;
 

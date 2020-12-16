@@ -1,9 +1,10 @@
-import org.cours.java.objet.Arme;
-import org.cours.java.objet.ArmeFactory;
-import org.cours.java.unite.Principal;
-import org.cours.java.unite.TypeUnite;
-import org.cours.java.unite.Unite;
-import org.cours.java.unite.UniteArmee;
+package org.cours.java.model;
+
+import org.cours.java.model.objet.ArmeFactory;
+import org.cours.java.model.unite.Principal;
+import org.cours.java.model.unite.TypeUnite;
+import org.cours.java.model.unite.Unite;
+import org.cours.java.model.unite.UniteArmee;
 
 import java.util.ArrayList;
 import java.util.List;
